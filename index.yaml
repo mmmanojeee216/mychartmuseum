@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gitexrepo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-10T07:31:27.58514309Z"
+    description: A Helm chart for Kubernetes
+    digest: 46dc7590ef8f506fd158c51279abe91ec10f7dc8f946d27cb6e783e9144a14d1
+    name: gitexrepo
+    type: application
+    urls:
+    - gitexrepo-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-10T07:31:27.579411938Z"
